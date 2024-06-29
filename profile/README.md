@@ -13,7 +13,7 @@ With a focus on cloud-native practices, KubeRocketCI facilitates seamless, autom
 
 We're thrilled to have a vibrant and growing community! If you're passionate about improving CI/CD practices, cloud-native technologies, or Kubernetes, we'd love your help. Here’s how you can get involved:
 
-- **Contribute**: Check out our [Contributing Guide](https://github.com/KubeRocketCI/docs/CONTRIBUTING.md) for details on submitting pull requests.
+- **Contribute**: Check out our [Contributing Guide](https://github.com/KubeRocketCI/docs/blob/main/CONTRIBUTING.md) for details on submitting pull requests.
 - **Report Issues**: Found a bug or have a feature request? Post it on the relevant repository's issues page.
 - **Join Discussions**: Share your ideas or ask questions in our community discussion forums.
 
